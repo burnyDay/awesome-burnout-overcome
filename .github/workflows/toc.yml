@@ -2,7 +2,7 @@ on:
   push:
     branches: [main]
     paths: ['README.md','README.fr-FR.md','README.es-ES.md']
-permissions: write-all
+
 jobs:
   build:
     runs-on: ubuntu-latest
