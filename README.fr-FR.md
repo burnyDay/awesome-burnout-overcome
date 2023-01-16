@@ -7,7 +7,7 @@
 [![fr-FR](https://img.shields.io/badge/lang-fr--fr-blue.svg)](https://github.com/burnyDay/awesome-burnout/blob/main/README.fr-FR.md)
 [![es-ES](https://img.shields.io/badge/lang-es--es-yellow.svg)](https://github.com/burnyDay/awesome-burnout/blob/main/README.es-ES.md)
 
-> Ressources permettant de meixu comprendre le bunrout et de le surmonter
+> Ressources permettant de mieux comprendre le burnout et de le surmonter
 
 <!--ts-->
 <!--te-->
