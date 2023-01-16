@@ -43,7 +43,7 @@ Note, however, that not everything will be considered. The aim of the list is to
 - Be well documented.
 - Not suggest:
   - ads or lucrative contents
-  - controversy technics
+  - controversial technics
   - professional and non-professional contacts
 
 ## Pull Request Style
