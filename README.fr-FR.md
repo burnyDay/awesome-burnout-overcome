@@ -18,7 +18,7 @@
 
 ## Livres
 
-* [Le guide de Burnout de Anne Everard](https://www.livredepoche.com/livre/guide-du-burn-out-9782253188179) :heart: : guide indispensable pour les personnes atteintes par le burnout. A lire et à faire lire dès que vous avez un peu de force
+* [Le guide du burnout de Anne Everard](https://www.livredepoche.com/livre/guide-du-burn-out-9782253188179) :heart: : guide indispensable pour les personnes atteintes par le burnout. A lire et à faire lire dès que vous avez un peu de force
 
 ## Blogs
 
