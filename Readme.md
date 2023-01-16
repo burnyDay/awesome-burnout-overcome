@@ -1,8 +1,7 @@
 # Awesome burnout overcome
 [![License: CC0-1.0](https://licensebuttons.net/l/zero/1.0/80x15.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+[![Contributing](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/burnyDay/awesome-burnout/blob/master/CONTRIBUTING.md)
 
-
-[:fr: en français](https://github.com/burnyDay/awesome-burnout/blob/master/README.fr-FR.md))  
 
 [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/burnyDay/awesome-burnout/blob/master/README.md)
 [![fr-FR](https://img.shields.io/badge/lang-fr--fr-blue.svg)](https://github.com/burnyDay/awesome-burnout/blob/master/README.fr-FR.md)
