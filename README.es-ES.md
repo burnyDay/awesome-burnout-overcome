@@ -10,6 +10,15 @@
 > Recursos para comprender y superar el agotamiento
 
 <!--ts-->
+* [Superar su burnout](README.es-ES.md#superar-su-burnout)
+   * [Evaluación](README.es-ES.md#evaluación)
+   * [Libros](README.es-ES.md#libros)
+   * [blogs](README.es-ES.md#blogs)
+   * [Podcasts](README.es-ES.md#podcasts)
+   * [Asociaciones](README.es-ES.md#asociaciones)
+   * [Derechos](README.es-ES.md#derechos)
+   * [Bienestar](README.es-ES.md#bienestar)
+      * [Técnicas](README.es-ES.md#técnicas)
 <!--te-->
 
 ## Evaluación

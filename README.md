@@ -10,6 +10,15 @@
 > Awesome resources to understand and overcome burnout
 
 <!--ts-->
+* [Awesome burnout overcome](README.md#awesome-burnout-overcome)
+   * [Evaluation](README.md#evaluation)
+   * [Books](README.md#books)
+   * [Blogs](README.md#blogs)
+   * [Podcasts](README.md#podcasts)
+   * [Associations](README.md#associations)
+   * [Rights](README.md#rights)
+   * [Well-being](README.md#well-being)
+      * [Technics](README.md#technics)
 <!--te-->
 
 ## Evaluation
