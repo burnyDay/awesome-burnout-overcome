@@ -27,5 +27,3 @@
 ## Well-being
 
 ### Technics
-
-### Apps
