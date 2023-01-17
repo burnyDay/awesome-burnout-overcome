@@ -35,4 +35,4 @@
 
 ## Well-being
 
-### Technics
+### Techniques
