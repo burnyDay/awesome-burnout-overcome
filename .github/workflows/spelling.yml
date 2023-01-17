@@ -16,13 +16,28 @@ jobs:
     - uses: actions/checkout@v3
 
     - uses: rojopolis/spellcheck-github-actions@0.29.0
-      name: Spellcheck
+      name: Spellcheck en
       with:
-        task_name: Markdown
+        task_name: en
+        config_path: .github/.spellcheck.yml
         output_file: spellcheck-output.txt
+
+    - uses: rojopolis/spellcheck-github-actions@0.29.0
+      name: Spellcheck fr
+      with:
+        task_name: fr
+        config_path: .github/.spellcheck.fr-FR.yml
+        output_file: spellcheck-output.fr-FR.txt
+
+    - uses: rojopolis/spellcheck-github-actions@0.29.0
+      name: Spellcheck es
+      with:
+        task_name: es
+        config_path: .github/.spellcheck.es-ES.yml
+        output_file: spellcheck-output.es-ES.txt
 
     - uses: actions/upload-artifact@v3
       name: Archive spellcheck output
       with:
         name: Spellcheck artifact
-        path: spellcheck-output.txt
+        path: spellcheck-output.*.txt
