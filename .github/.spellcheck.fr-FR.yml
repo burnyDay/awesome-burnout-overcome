@@ -2,8 +2,9 @@ matrix:
 - name: fr
   group: Markdown
   expect_match: false
-  apsell:
-    mode: fr
+  aspell:
+    lang: fr
+    d: fr_FR
   dictionary:
     wordlists:
     - .github/.wordlist.fr-FR.txt
