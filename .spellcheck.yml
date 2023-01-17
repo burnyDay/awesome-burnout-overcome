@@ -1,5 +1,5 @@
 matrix:
-- name: Markdown
+- name: Markdown en
   expect_match: false
   apsell:
     mode: en
@@ -22,4 +22,53 @@ matrix:
       - 'pre'
       - 'blockquote'
   sources:
-  - '*.md'
+  - 'README.md'
+  - 'CONTRIBUTING.md'
+- name: Markdown fr
+  expect_match: false
+  apsell:
+    mode: fr
+  dictionary:
+    wordlists:
+    - .wordlist.txt
+    output: wordlist.dic
+    encoding: utf-8
+  pipeline:
+  - pyspelling.filters.markdown:
+      markdown_extensions:
+      - markdown.extensions.extra:
+  - pyspelling.filters.html:
+      comments: false
+      attributes:
+      - alt
+      ignores:
+      - ':matches(code, pre)'
+      - 'code'
+      - 'pre'
+      - 'blockquote'
+  sources:
+  - 'README.fr-FR.md'
+- name: Markdown es
+  expect_match: false
+  apsell:
+    mode: es
+  dictionary:
+    wordlists:
+    - .wordlist.txt
+    output: wordlist.dic
+    encoding: utf-8
+  pipeline:
+  - pyspelling.filters.markdown:
+      markdown_extensions:
+      - markdown.extensions.extra:
+  - pyspelling.filters.html:
+      comments: false
+      attributes:
+      - alt
+      ignores:
+      - ':matches(code, pre)'
+      - 'code'
+      - 'pre'
+      - 'blockquote'
+  sources:
+  - 'README.es-ES.md'
