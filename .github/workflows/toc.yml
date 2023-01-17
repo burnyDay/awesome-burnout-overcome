@@ -1,4 +1,4 @@
-name: Generate TOC action
+name: Generate TOC Action
 on:
   push:
     branches: [main]
