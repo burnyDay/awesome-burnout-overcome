@@ -27,6 +27,8 @@
 
 ## Blogs
 
+* [Awesome resources about mental health](https://github.com/dreamingechoes/awesome-mental-health)
+
 ## Podcasts
 
 ## Associations
