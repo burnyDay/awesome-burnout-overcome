@@ -1,31 +1,31 @@
-# Surmonter son burnout
+# Surmonter son burn-out
+
 [![License: CC0-1.0](https://licensebuttons.net/l/zero/1.0/80x15.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 [![Contributing](https://img.shields.io/badge/Contributing-purple.svg)](https://github-com.translate.goog/burnyDay/awesome-burnout-overcome/blob/main/CONTRIBUTING.md?_x_tr_sl=auto&_x_tr_tl=fr&_x_tr_hl=en-US&_x_tr_pto=wapp)
-
 
 [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/burnyDay/awesome-burnout/blob/main/README.md)
 [![fr-FR](https://img.shields.io/badge/lang-fr--fr-blue.svg)](https://github.com/burnyDay/awesome-burnout/blob/main/README.fr-FR.md)
 [![es-ES](https://img.shields.io/badge/lang-es--es-yellow.svg)](https://github.com/burnyDay/awesome-burnout/blob/main/README.es-ES.md)
 
-> Ressources permettant de mieux comprendre le burnout et de le surmonter
+> Ressources permettant de mieux comprendre le burn-out et de le surmonter
 
 <!--ts-->
 * [Surmonter son burnout](README.fr-FR.md#surmonter-son-burnout)
-   * [Evaluation](README.fr-FR.md#evaluation)
-   * [Livres](README.fr-FR.md#livres)
-   * [Blogs](README.fr-FR.md#blogs)
-   * [Podcasts](README.fr-FR.md#podcasts)
-   * [Associations](README.fr-FR.md#associations)
-      * [Nationale](README.fr-FR.md#nationale)
+  * [Evaluation](README.fr-FR.md#evaluation)
+  * [Livres](README.fr-FR.md#livres)
+  * [Blogs](README.fr-FR.md#blogs)
+  * [Podcasts](README.fr-FR.md#podcasts)
+  * [Associations](README.fr-FR.md#associations)
+    * [Nationale](README.fr-FR.md#nationale)
       * [Locale](README.fr-FR.md#locale)
             * [Occitanie](README.fr-FR.md#occitanie)
-   * [Droits](README.fr-FR.md#droits)
-      * [Indemnisations](README.fr-FR.md#indemnisations)
-      * [Rupture conventionnelle](README.fr-FR.md#rupture-conventionnelle)
+  * [Droits](README.fr-FR.md#droits)
+    * [Indemnisations](README.fr-FR.md#indemnisations)
+    * [Rupture conventionnelle](README.fr-FR.md#rupture-conventionnelle)
       * [Inaptitude médicale](README.fr-FR.md#inaptitude-médicale)
-   * [Bien-être](README.fr-FR.md#bien-être)
-      * [Techniques](README.fr-FR.md#techniques)
-         * [Méditation/ Pleine conscience](README.fr-FR.md#méditation-pleine-conscience)
+  * [Bien-être](README.fr-FR.md#bien-être)
+    * [Techniques](README.fr-FR.md#techniques)
+      * [Méditation/ Pleine conscience](README.fr-FR.md#méditation-pleine-conscience)
 <!--te-->
 
 ## Evaluation
@@ -34,12 +34,12 @@
 
 ## Livres
 
-* [Le guide du burnout de Anne Everard](https://www.livredepoche.com/livre/guide-du-burn-out-9782253188179) :heart: : guide indispensable pour les personnes atteintes par le burnout. A lire et à faire lire dès que vous avez un peu de force
+* [Le guide du burn-out de Anne Everard](https://www.livredepoche.com/livre/guide-du-burn-out-9782253188179) :heart: : guide indispensable pour les personnes atteintes par le burn-out. A lire et à faire lire dès que vous avez un peu de force
 
 ## Blogs
 
 * [Souffrance et travail](https://www.souffrance-et-travail.com/): site de référence français sur la souffrance au travail
-* [Retour au travail](https://travailetsante.net/articles/retour-au-travail-ou-retour-a-la-sante/): retour d'expérience d'un professionnel de santé sur le retour au travail après un burnout
+* [Retour au travail](https://travailetsante.net/articles/retour-au-travail-ou-retour-a-la-sante/): retour d'expérience d'un professionnel de santé sur le retour au travail après un burn-out
 
 ## Podcasts
 
@@ -49,13 +49,13 @@
 
 ### Nationale
 
-* [Association des accidentès de la vie](https://www.fnath.org/): association qui défend et accompagne les personnes accidentées de la vie, pour faciliter leur accès aux droits dans le domaine des accidents du travail, des maladies professionnelles, mais aussi de toute maladie et handicap.                                     
+* [Association des accidentès de la vie](https://www.fnath.org/): association qui défend et accompagne les personnes accidentées de la vie, pour faciliter leur accès aux droits dans le domaine des accidents du travail, des maladies professionnelles, mais aussi de toute maladie et handicap.
 
 ### Locale
 
-##### Occitanie
+#### Occitanie
 
-* Toulouse [SOS Burnout France](https://www.facebook.com/sosburnoutfrance/): cercle de parole pour accompagner les personnes souffrantes de burnout
+* Toulouse [SOS Burn-out France](https://www.facebook.com/sosburnoutfrance/): cercle de parole pour accompagner les personnes souffrantes de burn-out
 
 ## Droits
 
@@ -84,7 +84,6 @@
 
 * [Guide MBSR](https://livre.fnac.com/a14707127/Jon-Kabat-Zinn-Mon-cahier-de-meditation-anti-deprime) :open_book: : Guide pour réduire le stress basé sur la pleine conscience
 * [L'art de la médiation de Mathieu Richard](https://www.matthieuricard.org/books/l-art-de-la-meditation) :open_book: [:clapper:](https://www.youtube.com/watch?v=ZLq4dEGRmzE) : Belle introduction pour appréhender la médiation
-* [Méditation par Christophe André](https://www.youtube.com/watch?v=4ydIacTww90) :clapper: : Série de méditations proposée par Christophe André 
+* [Méditation par Christophe André](https://www.youtube.com/watch?v=4ydIacTww90) :clapper: : Série de méditations proposée par Christophe André
 * [Insight Timer](https://insighttimer.com/) :iphone: : Application gratuite proposant des très nombreuses méditations (gratuites ou payantes)
 * [Petit Bambou](https://www.petitbambou.com/):iphone: : Application francophone guidant les utilisateurs pour la pratique de la méditation
-
