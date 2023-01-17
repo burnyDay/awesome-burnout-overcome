@@ -27,7 +27,7 @@
 
 ## Blogs
 
-* [Awesome resources about mental health](https://github.com/dreamingechoes/awesome-mental-health)
+* [Awesome resources about mental health](https://github.com/dreamingechoes/awesome-mental-health): A curated list of awesome articles, websites and resources about mental health in the software industry.
 
 ## Podcasts
 
