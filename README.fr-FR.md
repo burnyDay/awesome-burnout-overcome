@@ -49,7 +49,7 @@
 
 ### Nationale
 
-* [Association des accidentès de la vie](https://www.fnath.org/): association qui défend et accompagne les personnes accidentées de la vie, pour faciliter leur accès aux droits dans le domaine des accidents du travail, des maladies professionnelles, mais aussi de toute maladie et handicap.
+* [Association des accidentés de la vie](https://www.fnath.org/): association qui défend et accompagne les personnes accidentées de la vie, pour faciliter leur accès aux droits dans le domaine des accidents du travail, des maladies professionnelles, mais aussi de toute maladie et handicap.
 
 ### Locale
 
@@ -74,7 +74,7 @@
 ### Inaptitude médicale
 
 * [Site officiel](https://www.service-public.fr/particuliers/vosdroits/F726)
-* [Faire reconnaitre l'inaptitude](https://travail-emploi.gouv.fr/sante-au-travail/suivi-de-la-sante-au-travail-10727/article/la-reconnaissance-de-l-inaptitude-medicale-au-travail-et-ses-consequences)
+* [Faire reconnaître l'inaptitude](https://travail-emploi.gouv.fr/sante-au-travail/suivi-de-la-sante-au-travail-10727/article/la-reconnaissance-de-l-inaptitude-medicale-au-travail-et-ses-consequences)
 
 ## Bien-être
 
