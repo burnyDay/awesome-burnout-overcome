@@ -6,8 +6,8 @@ matrix:
     mode: fr
   dictionary:
     wordlists:
-    - .wordlist.txt
-    output: wordlist.dic
+    - .github/.wordlist.fr-FR.txt
+    output: wordlist.fr-FR.dic
     encoding: utf-8
   pipeline:
   - pyspelling.filters.markdown:
