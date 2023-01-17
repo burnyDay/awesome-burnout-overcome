@@ -2,8 +2,9 @@ matrix:
 - name: es
   group: Markdown
   expect_match: false
-  apsell:
-    mode: es
+  aspell:
+    lang: es
+    d: es_ES
   dictionary:
     wordlists:
     - .github/.wordlist.es-ES.txt
