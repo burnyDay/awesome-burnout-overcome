@@ -6,8 +6,8 @@ matrix:
     mode: es
   dictionary:
     wordlists:
-    - .wordlist.txt
-    output: wordlist.dic
+    - .github/.wordlist.es-ES.txt
+    output: wordlist.es-ES.dic
     encoding: utf-8
   pipeline:
   - pyspelling.filters.markdown:
