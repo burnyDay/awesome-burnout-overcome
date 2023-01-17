@@ -18,7 +18,7 @@
    * [Associations](README.md#associations)
    * [Rights](README.md#rights)
    * [Well-being](README.md#well-being)
-      * [Technics](README.md#technics)
+      * [Techniques](README.md#techniques)
 <!--te-->
 
 ## Evaluation
