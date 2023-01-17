@@ -12,7 +12,8 @@ matrix:
       - code
       - pre
   sources:
-  - 'README.md' 'CONTRIBUTING.md'
+  - "README.md"
+  - "CONTRIBUTING.md"
   default_encoding: utf-8
 - name: French
   aspell:
@@ -27,7 +28,7 @@ matrix:
       - code
       - pre
   sources:
-  - 'README.fr-FR.md'
+  - "README.fr-FR.md"
   default_encoding: utf-8
 - name: Spanish
   aspell:
@@ -42,5 +43,5 @@ matrix:
       - code
       - pre
   sources:
-  - 'README.es-ES.md'
+  - "README.es-ES.md"
   default_encoding: utf-8
