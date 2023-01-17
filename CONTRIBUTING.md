@@ -1,6 +1,14 @@
 # Contribution Guidelines
 
 <!--ts-->
+* [Contribution Guidelines](CONTRIBUTING.md#contribution-guidelines)
+   * [Contributor Code of Conduct](CONTRIBUTING.md#contributor-code-of-conduct)
+   * [Resources to be submitted](CONTRIBUTING.md#resources-to-be-submitted)
+   * [Pull Request Style](CONTRIBUTING.md#pull-request-style)
+      * [Ground Rules](CONTRIBUTING.md#ground-rules)
+      * [Formatting &amp; Style](CONTRIBUTING.md#formatting--style)
+      * [Other Pull Requests](CONTRIBUTING.md#other-pull-requests)
+      * [Updating your PR](CONTRIBUTING.md#updating-your-pr)
 <!--te-->
 
 ## Contributor Code of Conduct
