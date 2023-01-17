@@ -25,7 +25,7 @@
 
 ## Libros
 
-## blogs
+## Blogs
 
 ## Podcasts
 
