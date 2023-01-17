@@ -46,14 +46,14 @@ This Code of Conduct is adapted from the [Contributor Covenant][homepage], versi
 
 Thank you for your suggestions!
 
-Note, however, that not everything will be considered. The aim of the list is to provide a concise set of awesome resources about burnout explabation and overcome. This means that suggestions should, where applicable:
+Note, however, that not everything will be considered. The aim of the list is to provide a concise set of awesome resources about burnout explanation and overcome. This means that suggestions should, where applicable:
 
 * Do one thing and do it well.
 * Have a free and open source license.
 * Be well documented.
 * Not suggest:
    * ads or lucrative contents
-   * controversial technics
+   * controversial techniques
    * professional and non-professional contacts
 
 ## Pull Request Style
