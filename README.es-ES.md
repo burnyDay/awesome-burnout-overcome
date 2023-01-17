@@ -13,7 +13,7 @@
 * [Superar su burn-out](README.es-ES.md#superar-su-burn-out)
    * [Evaluación](README.es-ES.md#evaluación)
    * [Libros](README.es-ES.md#libros)
-   * [blogs](README.es-ES.md#blogs)
+   * [Blogs](README.es-ES.md#blogs)
    * [Podcasts](README.es-ES.md#podcasts)
    * [Asociaciones](README.es-ES.md#asociaciones)
    * [Derechos](README.es-ES.md#derechos)
