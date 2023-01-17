@@ -10,15 +10,15 @@
 > Awesome resources to understand and overcome burn-out
 
 <!--ts-->
-* [Awesome burnout overcome](README.md#awesome-burnout-overcome)
-  * [Evaluation](README.md#evaluation)
-  * [Books](README.md#books)
-  * [Blogs](README.md#blogs)
-  * [Podcasts](README.md#podcasts)
-  * [Associations](README.md#associations)
-  * [Rights](README.md#rights)
-  * [Well-being](README.md#well-being)
-    * [Technics](README.md#technics)
+* [Awesome burn-out overcome](README.md#awesome-burn-out-overcome)
+   * [Evaluation](README.md#evaluation)
+   * [Books](README.md#books)
+   * [Blogs](README.md#blogs)
+   * [Podcasts](README.md#podcasts)
+   * [Associations](README.md#associations)
+   * [Rights](README.md#rights)
+   * [Well-being](README.md#well-being)
+      * [Technics](README.md#technics)
 <!--te-->
 
 ## Evaluation
