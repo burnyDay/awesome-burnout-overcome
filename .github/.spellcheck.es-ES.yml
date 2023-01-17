@@ -4,7 +4,6 @@ matrix:
   expect_match: false
   aspell:
     lang: es
-    d: es_ES
   dictionary:
     wordlists:
     - .github/.wordlist.es-ES.txt
