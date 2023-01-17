@@ -52,9 +52,9 @@ Note, however, that not everything will be considered. The aim of the list is to
 * Have a free and open source license.
 * Be well documented.
 * Not suggest:
-  * ads or lucrative contents
-  * controversial technics
-  * professional and non-professional contacts
+   * ads or lucrative contents
+   * controversial technics
+   * professional and non-professional contacts
 
 ## Pull Request Style
 
@@ -68,10 +68,10 @@ Note, however, that not everything will be considered. The aim of the list is to
 * The pull request shall be titled: `Add ITEM_NAME`.
 * The item is added at the bottom of the relevant category.
 * Use the following format: `[ITEM_NAME](LINK) - DESCRIPTION.`
-  * Description starts with a capital and ends with a full stop (period).
-    * Try to keep it short and concise.
-  * No trailing whitespace.
-  * Check your spelling and grammar.
+   * Description starts with a capital and ends with a full stop (period).
+   * Try to keep it short and concise.
+   * No trailing whitespace.
+   * Check your spelling and grammar.
 * Use icons from [emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) to illustrate your links
 * Please use [markdown lint](https://dlaa.me/markdownlint/) to format your md file
 
