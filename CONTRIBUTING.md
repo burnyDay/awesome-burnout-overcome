@@ -73,7 +73,7 @@ Note, however, that not everything will be considered. The aim of the list is to
    * No trailing whitespace.
    * Check your spelling and grammar.
 * Use icons from [emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) to illustrate your links
-* Please use [markdown lint](https://dlaa.me/markdownlint/) to format your md file
+* Please use [markdown lint](https://dlaa.me/markdownlint/) to format your md file and check [automation tasks state](https://github.com/burnyDay/awesome-burnout-overcome/actions)
 
 ### Other Pull Requests
 
