@@ -29,7 +29,6 @@ This Code of Conduct is adapted from the [Contributor Covenant][homepage], versi
 [homepage]: http://contributor-covenant.org
 [version]: http://contributor-covenant.org/version/1/3/0/
 
-
 ---
 
 ## Resources to be submitted
@@ -38,31 +37,31 @@ Thank you for your suggestions!
 
 Note, however, that not everything will be considered. The aim of the list is to provide a concise set of awesome resources about burnout explabation and overcome. This means that suggestions should, where applicable:
 
-- Do one thing and do it well.
-- Have a free and open source license.
-- Be well documented.
-- Not suggest:
-  - ads or lucrative contents
-  - controversial technics
-  - professional and non-professional contacts
+* Do one thing and do it well.
+* Have a free and open source license.
+* Be well documented.
+* Not suggest:
+  * ads or lucrative contents
+  * controversial technics
+  * professional and non-professional contacts
 
 ## Pull Request Style
 
-#### Ground Rules
+### Ground Rules
 
-- No duplicates.
-- Individual pull request for each suggestion.
+* No duplicates.
+* Individual pull request for each suggestion.
 
-#### Formatting & Style
+### Formatting & Style
 
-- The pull request shall be titled: `Add ITEM_NAME`.
-- The item is added at the bottom of the relevant category.
-- Use the following format: `[ITEM_NAME](LINK) - DESCRIPTION.`
-  - Description starts with a capital and ends with a full stop (period).
-    - Try to keep it short and concise.
-  - No trailing whitespace.
-  - Check your spelling and grammar.
-- Use icons from [emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) to illustrate your links
+* The pull request shall be titled: `Add ITEM_NAME`.
+* The item is added at the bottom of the relevant category.
+* Use the following format: `[ITEM_NAME](LINK) - DESCRIPTION.`
+  * Description starts with a capital and ends with a full stop (period).
+    * Try to keep it short and concise.
+  * No trailing whitespace.
+  * Check your spelling and grammar.
+* Use icons from [emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) to illustrate your links
 
 ### Other Pull Requests
 
