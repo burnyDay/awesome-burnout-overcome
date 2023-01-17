@@ -62,6 +62,7 @@ Note, however, that not everything will be considered. The aim of the list is to
   * No trailing whitespace.
   * Check your spelling and grammar.
 * Use icons from [emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) to illustrate your links
+* Please use [markdown lint](https://dlaa.me/markdownlint/) to format your md file
 
 ### Other Pull Requests
 
