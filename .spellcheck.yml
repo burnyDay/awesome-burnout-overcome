@@ -1,49 +1,25 @@
 matrix:
-- name: English
-  aspell:
-    lang: en
+- name: Markdown
+  expect_match: false
+  apsell:
+    mode: en
   dictionary:
+    wordlists:
+    - .wordlist.txt
+    output: wordlist.dic
     encoding: utf-8
   pipeline:
   - pyspelling.filters.markdown:
       markdown_extensions:
-      - pymdownx.superfences
+      - markdown.extensions.extra:
   - pyspelling.filters.html:
       comments: false
+      attributes:
+      - alt
       ignores:
-      - code
-      - pre
-  sources: "README.md CONTRIBUTING.md"
-  default_encoding: utf-8
-- name: French
-  aspell:
-    lang: fr
-  dictionary:
-    encoding: utf-8
-  pipeline:
-  - pyspelling.filters.markdown:
-      markdown_extensions:
-      - pymdownx.superfences
-  - pyspelling.filters.html:
-      comments: false
-      ignores:
-      - code
-      - pre
-  sources: "README.fr-FR.md"
-  default_encoding: utf-8
-- name: Spanish
-  aspell:
-    lang: es
-  dictionary:
-    encoding: utf-8
-  pipeline:
-  - pyspelling.filters.markdown:
-      markdown_extensions:
-      - pymdownx.superfences
-  - pyspelling.filters.html:
-      comments: false
-      ignores:
-      - code
-      - pre
-  sources: "README.es-ES.md"
-  default_encoding: utf-8
+      - ':matches(code, pre)'
+      - 'code'
+      - 'pre'
+      - 'blockquote'
+  sources:
+  - '*.md'
