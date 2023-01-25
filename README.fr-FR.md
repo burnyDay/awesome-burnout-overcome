@@ -43,7 +43,8 @@
 
 ## Podcasts
 
-* [Retour d'expérience de Pierre Simonnin](https://www.youtube.com/@PierreSimonnin)
+* [Chaîne Youtube de Pierre Simonnin](https://www.youtube.com/@PierreSimonnin): retour d'expérience de Pierre Simonnin avec de nombreux entretiens
+* [Le refactoring le plus difficile de ma carrière](https://www.youtube.com/watch?v=TiRoge93H0o) : retour d'expérience de Jérôme Petazzoni travaillant dans le domaine de l'informatique (Ops) 
 
 ## Associations
 
