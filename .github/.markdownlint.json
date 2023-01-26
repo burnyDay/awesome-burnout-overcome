@@ -4,5 +4,5 @@
     "commands-show-output": false,
     "no-bare-urls": false,
     "MD007": { "indent": 4 },
-    "MD013": false
+    "MD013": { "line_length": 99999 }
 }
