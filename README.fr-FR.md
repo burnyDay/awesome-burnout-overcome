@@ -40,6 +40,7 @@
 
 * [Souffrance et travail](https://www.souffrance-et-travail.com/): site de référence français sur la souffrance au travail
 * [Retour au travail](https://travailetsante.net/articles/retour-au-travail-ou-retour-a-la-sante/): retour d'expérience d'un professionnel de santé sur le retour au travail après un burn-out
+* [Théorie des cuillères](http://cdn.totalcomputersusa.com/butyoudontlooksick.com/uploads/2010/09/La-Theorie-des-cuilleres.pdf) :heart: : Comment expliquer de façon imagé ce qu'est le burn-out. Idéal pour les enfants.
 
 ## Podcasts
 
