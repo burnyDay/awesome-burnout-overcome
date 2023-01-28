@@ -62,6 +62,10 @@
 
 * Toulouse [SOS Burn-out France](https://www.facebook.com/sosburnoutfrance/): cercle de parole pour accompagner les personnes souffrantes de burn-out.
 
+#### PACA
+
+* Ouest de l’étang de Berre [A. EFABO 13](https://www.facebook.com/sosburnoutfrance/](https://www.ensemblefaceauburnout13.com):  accompagnement des personnes souffrantes de burn-out.
+
 ## Droits
 
 ### Indemnisations
@@ -85,7 +89,7 @@
 
 #### Méditation/ Pleine conscience
 
-* [Guide MBSR](https://livre.fnac.com/a14707127/Jon-Kabat-Zinn-Mon-cahier-de-meditation-anti-deprime) :open_book: : Guide pour réduire le stress basé sur la pleine conscience.
+* [Guide MBSR](https://www.deboecksuperieur.com/ouvrage/9782807330382-mon-cahier-de-meditation-anti-deprime) :open_book: : Guide pour réduire le stress basé sur la pleine conscience.
 * [L'art de la médiation de Mathieu Richard](https://www.matthieuricard.org/books/l-art-de-la-meditation) :open_book: [:clapper:](https://www.youtube.com/watch?v=ZLq4dEGRmzE) : Belle introduction pour appréhender la médiation.
 * [Méditation par Christophe André](https://www.youtube.com/watch?v=4ydIacTww90) :clapper: : Série de méditations proposée par Christophe André.
 * [Insight Timer](https://insighttimer.com/) :iphone: : Application gratuite proposant des très nombreuses méditations (gratuites ou payantes).
