@@ -18,9 +18,8 @@ jobs:
         rm gh-md-toc
     - uses: DavidAnson/markdownlint-cli2-action@v9
       with:
-        command: config
+        command: fix
         globs: |
-          .github/.markdownlint.json
           **/*.md
     - uses: gaurav-nelson/github-action-markdown-link-check@v1
       with:
