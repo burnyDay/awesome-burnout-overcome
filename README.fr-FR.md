@@ -64,7 +64,7 @@
 
 #### PACA
 
-* Ouest de l’étang de Berre [A. EFABO 13](https://www.facebook.com/sosburnoutfrance/](https://www.ensemblefaceauburnout13.com):  accompagnement des personnes souffrantes de burn-out.
+* Ouest de l’étang de Berre [A. EFABO 13](https://www.ensemblefaceauburnout13.com):  accompagnement des personnes souffrantes de burn-out.
 
 ## Droits
 
