@@ -25,7 +25,7 @@ jobs:
       with:
         use-quiet-mode: 'yes'
         use-verbose-mode: 'yes'
-        max-depth: 1
+        max-depth: 3
     - uses: stefanzweifel/git-auto-commit-action@v4
       with:
         commit_message: Auto update markdown TOC
