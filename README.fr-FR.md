@@ -11,21 +11,22 @@
 
 <!--ts-->
 * [Surmonter son burn-out](README.fr-FR.md#surmonter-son-burn-out)
-   * [Evaluation](README.fr-FR.md#evaluation)
-   * [Livres](README.fr-FR.md#livres)
-   * [Blogs](README.fr-FR.md#blogs)
-   * [Podcasts](README.fr-FR.md#podcasts)
-   * [Associations](README.fr-FR.md#associations)
-      * [Nationale](README.fr-FR.md#nationale)
-      * [Locale](README.fr-FR.md#locale)
-         * [Occitanie](README.fr-FR.md#occitanie)
-   * [Droits](README.fr-FR.md#droits)
-      * [Indemnisations](README.fr-FR.md#indemnisations)
-      * [Rupture conventionnelle](README.fr-FR.md#rupture-conventionnelle)
-      * [Inaptitude médicale](README.fr-FR.md#inaptitude-médicale)
-   * [Bien-être](README.fr-FR.md#bien-être)
-      * [Techniques](README.fr-FR.md#techniques)
-         * [Méditation/ Pleine conscience](README.fr-FR.md#méditation-pleine-conscience)
+    * [Evaluation](README.fr-FR.md#evaluation)
+    * [Livres](README.fr-FR.md#livres)
+    * [Blogs](README.fr-FR.md#blogs)
+    * [Podcasts / Emissions](README.fr-FR.md#podcasts--emissions)
+    * [Associations](README.fr-FR.md#associations)
+        * [France](README.fr-FR.md#france)
+            * [Nouvelle Aquitaine](README.fr-FR.md#nouvelle-aquitaine)
+            * [Occitanie](README.fr-FR.md#occitanie)
+            * [PACA](README.fr-FR.md#paca)
+    * [Droits](README.fr-FR.md#droits)
+        * [Indemnisations](README.fr-FR.md#indemnisations)
+        * [Rupture conventionnelle](README.fr-FR.md#rupture-conventionnelle)
+        * [Inaptitude médicale](README.fr-FR.md#inaptitude-médicale)
+    * [Bien-être](README.fr-FR.md#bien-être)
+        * [Techniques](README.fr-FR.md#techniques)
+            * [Méditation/ Pleine conscience](README.fr-FR.md#méditation-pleine-conscience)
 <!--te-->
 
 ## Evaluation
@@ -45,7 +46,7 @@
 ## Podcasts / Emissions
 
 * [Chaîne Youtube de Pierre Simonnin](https://www.youtube.com/@PierreSimonnin) :clapper: : retour d'expérience de Pierre Simonnin avec de nombreux entretiens
-* [Le refactoring le plus difficile de ma carrière](https://www.youtube.com/watch?v=TiRoge93H0o) :clapper: : retour d'expérience de Jérôme Petazzoni travaillant dans le domaine de l'informatique (Ops) 
+* [Le refactoring le plus difficile de ma carrière](https://www.youtube.com/watch?v=TiRoge93H0o) :clapper: : retour d'expérience de Jérôme Petazzoni travaillant dans le domaine de l'informatique (Ops)
 * [Le monde en face - La mécanique burn out](https://youtu.be/VWC6Y1gimDI) :clapper: : L'émission" diffusée sur France 5 (14/2/18) présente la mécanique du burn-out. C'est une très bonne introduction pour comprendre le burn-out. Ce reportable est accessible pour tous.
 
 ## Associations
@@ -75,7 +76,7 @@
 ### Rupture conventionnelle
 
 * [Site officiel](https://www.service-public.fr/particuliers/vosdroits/F19030): Ce document officiel répond à la question qu'est ce qu'une rupture conventionnelle ?
-* [Calcul des indemnités](https://code.travail.gouv.fr/fiche-service-public/comment-calculer-lindemnite-specifique-de-rupture-conventionnelle?q=rupture%20conventionnelle%20indemnit%C3%A9): Calculatrice permettant d'évaluer ses possibles indemnités. 
+* [Calcul des indemnités](https://code.travail.gouv.fr/fiche-service-public/comment-calculer-lindemnite-specifique-de-rupture-conventionnelle?q=rupture%20conventionnelle%20indemnit%C3%A9): Calculatrice permettant d'évaluer ses possibles indemnités.
 * [Comment obtenir une RP](https://www.cfdt.fr/portail/vos-droits/questions/reponses/comment-obtenir-une-rupture-conventionnelle-individuelle-rec_69727), [Fiche juridique sur la RP](https://www.cfdt.fr/portail/vos-droits/fiches-juridiques/depart-de-l-entreprise/rupture-conventionnelle/la-rupture-conventionnelle-individuelle-rec_66631): Conseils pour obtenir une rupture conventionnelle.
 
 ### Inaptitude médicale
