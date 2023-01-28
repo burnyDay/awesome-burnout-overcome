@@ -1,0 +1,16 @@
+
+FILE: ./CONTRIBUTING.md
+
+14 links checked.
+
+FILE: ./README.es-ES.md
+
+19 links checked.
+
+FILE: ./README.md
+
+20 links checked.
+
+FILE: ./README.fr-FR.md
+
+52 links checked.
