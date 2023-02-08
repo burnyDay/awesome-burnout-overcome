@@ -7,7 +7,7 @@
 [![fr-FR](https://img.shields.io/badge/langue-français-blue.svg)](https://github.com/burnyDay/awesome-burnout/blob/main/README.fr-FR.md)
 [![es-ES](https://img.shields.io/badge/idoma-español-yellow.svg)](https://github.com/burnyDay/awesome-burnout/blob/main/README.es-ES.md)
 
-> Recursos para comprender y superar el agotamiento
+> Recursos para entender y superar el agotamiento
 
 <!--ts-->
 * [Superar su burn-out](README.es-ES.md#superar-su-burn-out)
